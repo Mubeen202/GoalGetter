@@ -1,10 +1,10 @@
 import { View, Text } from 'react-native'
 import React from 'react'
 
-export default function TopNavigation() {
+export default function LeaderBoardScreen() {
   return (
     <View>
-      <Text>TopNavigation</Text>
+      <Text>LeaderBoardScreen</Text>
     </View>
   )
 }
